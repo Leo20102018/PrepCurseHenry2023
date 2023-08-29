@@ -1,2 +1,1 @@
-# PrepCurseHenry2023
-Este es un repositorio de prueba del modulo 2 de henry
+Este proyecto es un repositorio y clonarlo desde github a mi computadora.
